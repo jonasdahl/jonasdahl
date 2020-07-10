@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[https://jdahl.se](jdahl.se) / jonas@jdahl.se
+[jdahl.se](https://jdahl.se) / jonas@jdahl.se
